@@ -1,0 +1,25 @@
+
+
+h1 {
+  color: white;
+  font-size:50px;
+  font-family:Verdana;
+  text-align: center;
+  font-weight: normal;
+}
+
+/* unvisited link */
+a:link {
+    color: Aquamarine;
+    font-size:16px;
+}
+
+/* visited link */
+a:visited {
+    color: Aquamarine;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
