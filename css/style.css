@@ -8,6 +8,21 @@ h1 {
   font-weight: normal;
 }
 
+h2 {
+  color: white;
+  font-size:42px;
+  font-family:Verdana;
+  text-align: center;
+  font-weight: 300;
+}
+
+h3 {
+  color: gray;
+  font-size:21px;
+  font-family:Verdana;
+  text-align: center;
+}
+
 /* unvisited link */
 a:link {
     color: Aquamarine;
@@ -17,6 +32,11 @@ a:link {
 /* visited link */
 a:visited {
     color: Aquamarine;
+}
+
+h6 {
+  color: white;
+  text-align: right;
 }
 
 body {
